@@ -11,6 +11,10 @@ The goal of the project is to create a **fully local personal assistant** capabl
 
 The system is built with scalability in mind, allowing new tools, agents, and features to be added without modifying the core system.
 
+
+⚠️ Important:
+This repository represents a very early alpha version of Cardinalis. The project is still under heavy development and the architecture, features, and modules may change significantly as the system evolves.
+
 ---
 
 # Demo Concept
